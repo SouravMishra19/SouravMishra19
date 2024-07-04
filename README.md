@@ -1,5 +1,7 @@
 ## Hi there 👋
+<h1 align="center"><a href="https://github.com/SouravMishra19"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hi%2C+I'm+Sourav+Mishra" alt="Typing SVG" /></a> </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SouravMishra19&label=Profile%20views&color=0e75b6&style=flat" alt="SouravMishra19" /> </p>
 <!--
 **SouravMishra19/SouravMishra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
